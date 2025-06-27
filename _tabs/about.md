@@ -21,7 +21,6 @@ order: 4
   <strong>🧠 Tech Stack</strong>
 </p>
 
-<p>
 <div style="text-align:center;">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,7 +51,8 @@ order: 4
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
-</p>
+
+<br>
 
 <p align="center">
   <strong>🚀 Goals</strong>
