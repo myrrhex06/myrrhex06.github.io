@@ -1,5 +1,5 @@
 ---
-title: Nexus Maven Repository 업로드 방법에 대해 알아보자.
+title: Nexus Repository Maven 연동 방법에 대해 알아보자.
 date: 2025-07-09 20:00:00 +0900
 categories: [DevOps, Nexus]
 tags: [nexus, docker, maven, spring, java]
@@ -9,7 +9,7 @@ Nexus Repository에 생성한 Maven Repository에 빌드 결과물(Jar, war 등)
 
 > 이 글에서는 Spring boot 프로젝트를 빌드한 jar 파일을 업로드하는 과정을 정리한다.
 
-## **Maven Repository 사용**
+## **Maven Repository 연동**
 1.jar 또는 war 파일 빌드
 ```bash
 mvn -DskipTests clean package
@@ -33,11 +33,13 @@ Setting 메뉴 > Repository > 생성한 Repository를 클릭하면 확인 가능
 ```
 - `distributionManagement`: 배포 설정 태그(`mvn deploy` 할 때만 사용됨)
 - `repository`: Release 버전의 결과물을 배포할 Nexus 저장소 경로 설정
+  - `snapshot`은 `snapshotRepository` 태그를 사용하여 따로 처리해줘야함
 - `id`: `setting.xml`에 인증 정보를 넣을 때 사용되기에 매우 중요.
   - `id` 값은 정해진게 없으나 중복값이 있으면 안됨.
 - `url`: 2번에서 확인한 URL 정보 입력
 
 > `setting.xml`은 Maven에서 사용하는 개인 설정 파일로, 주로 인증 정보, 기본 저장소 설정 등의 정보가 들어있다.
+{: .prompt-tip }
 
 4.`~/.m2` 경로에 접속하여 `setting.xml` 수정
 
