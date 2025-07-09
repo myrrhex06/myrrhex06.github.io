@@ -2,7 +2,7 @@
 title: Nexus Maven Repository 업로드 방법에 대해 알아보자.
 date: 2025-07-09 20:00:00 +0900
 categories: [DevOps, Nexus]
-tags: [nexus, docker, nexus, maven, spring, java]
+tags: [nexus, docker, maven, spring, java]
 ---
 
 Nexus Repository에 생성한 Maven Repository에 빌드 결과물(Jar, war 등)을 올리는 방법에 대해 알아보자.
