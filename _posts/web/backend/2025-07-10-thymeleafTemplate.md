@@ -37,9 +37,9 @@ Thymeleaf에 템플릿 조각에 대해 알아보자.
 </html>
 ```
 
-사용할 때는 th:insert, th:replace를 통해 템플릿 조각을 불러올 수 있고 파라미터도 넘길 수 있다.
+사용할 때는 `th:insert`, `th:replace`를 통해 템플릿 조각을 불러올 수 있고 파라미터도 넘길 수 있다.
 
-> 이 글에서는 th:insert만을 사용한다.
+> 이 글에서는 `th:insert`만을 사용한다.
 
 예시
 ```html
@@ -65,6 +65,6 @@ Thymeleaf에 템플릿 조각에 대해 알아보자.
 
 ![templateResult](/assets/img/thymeleaf_template_result.png)
 
-위와 같이 th:insert는 해당 속성을 사용한 요소 안에 템플릿 조각을 삽입한다.
+위와 같이 `th:insert`는 해당 속성을 사용한 요소 안에 템플릿 조각을 삽입한다.
 
 > `th:replace`는 해당 속성을 사용한 요소를 대체시킨다.
