@@ -1,6 +1,6 @@
 ---
 title: Exists 쿼리 작성 방법에 대해 알아보자.
-date: 2025-07-16 21:30:00 +0900
+date: 2025-07-18 21:15:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql]
 ---
