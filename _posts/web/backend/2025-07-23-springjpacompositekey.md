@@ -1,6 +1,6 @@
 ---
 title: Spring Data JPA 복합키 설정에 대해 알아보자.
-date: 2025-07-24 21:14:00 +0900
+date: 2025-07-23 21:14:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, jpa, orm]
 ---
