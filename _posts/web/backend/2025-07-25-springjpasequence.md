@@ -10,7 +10,7 @@ tags: [backend, spring, jpa, orm, sequence]
 > [GeneratedValue IDENTITY 블로그 글 참고](/posts/springjpaidentity/)
 
 ## **`SEQUENCE`**
-SEQUENCE는 주로 PostgreSQL, Oracle과 같이 AUTO_INCREMENT가 지원되지 않는 DB에서 사용된다.
+`SEQUENCE`는 주로 PostgreSQL, Oracle과 같이 `AUTO_INCREMENT`가 지원되지 않는 DB에서 사용된다.
 
 > MariaDB 10.3 버전 이후부터는 MariaDB도 시퀀스 사용이 가능하다.
 
