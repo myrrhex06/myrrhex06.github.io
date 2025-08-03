@@ -145,7 +145,7 @@ public void processBatch(MappedStatement ms, Statement stmt, Object parameter) {
 </selectKey>
 ```
 
-## **내부 동작 과정**
+### **내부 동작 과정**
 1. Mybatis가 `INSERT` 쿼리를 실행할 때 `MappedStatment`를 통해 `selectKey` 쿼리를 먼저(또는 나중에) 실행 
 2. 반환된 결과는 Mybatis의 `KeyGenerator` 인터페이스를 구현한 `SelectKeyGenerator` 클래스가 받아서 처리
 
