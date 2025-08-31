@@ -1,7 +1,7 @@
 ---
 title: "RDB(Relational Database)와 RDBMS(Relational Database Management System)에 대해 알아보자."
 date: 2025-08-30 16:04:00 +0900
-categories: [DB]
+categories: [CS, DB]
 tags: [database, rdbms]
 ---
 
