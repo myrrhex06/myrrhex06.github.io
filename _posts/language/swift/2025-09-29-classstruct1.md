@@ -1,5 +1,5 @@
 ---
-title: "Swift - 클래스와 구조체란? (1)"
+title: "Swift - 클래스와 구조체란?"
 date: 2025-09-29 06:50:00 +0900
 categories: [Language, Swift]
 tags: [swift, class, struct, callbyvalue, callbyreference]
@@ -26,6 +26,73 @@ struct 구조체명{
 
   // 메서드..
 }
+```
+
+예시
+```swift
+class Person{
+  var name = ""
+  var age: Int?
+}
+
+struct Animal{
+  var name: String
+  var age: Int
+}
+
+var person = Person()
+var animal = Animal(name: "뽀삐", age: 3)
+```
+
+클래스의 경우 프로퍼티에 초기값 지정, 옵셔널 선언, 초기화 구문 사용을 통해 값을 할당해주지 않으면 오류가 발생하게 됨.
+
+**초기화 구문 사용 예시**
+```swift
+class Person{
+    var name: String
+    var age: Int?
+    
+    init(name: String, age: Int? = nil) {
+        self.name = name
+        self.age = age
+    }
+}
+
+var person = Person(name: "홍길동", age: 20)
+```
+
+**옵셔널 선언 예시**
+```swift
+class Person{
+    var name: String?
+    var age: Int?
+}
+
+var person = Person()
+```
+
+옵셔널 선언에 경우 초기 값이 `nil`로 자동으로 할당됨.
+
+**초기값 할당 예시**
+```swift
+class Person{
+    var name: String = "홍길동"
+    var age: Int = 20
+}
+
+var person = Person()
+```
+
+구조체의 경우 초기값, 옵셔널 선언을 하지 않더라도 자동으로 모든 프로퍼티를 초기화할 수 있는 초기화 구문을 제공해줌.
+
+예시
+```swift
+struct Animal{
+    var name: String
+    var age: Int
+}
+
+var animal = Animal(name: "뽀삐", age: 3)
 ```
 
 ### **클래스와 구조체의 공통점**
@@ -56,12 +123,12 @@ struct Person{
   var age: Int
 }
 
-var ex1 = Person(name: "Hong", age: 20)
-var ex2 = ex1
-ex2.age = 30
+var person1 = Person(name: "Hong", age: 20)
+var person2 = person1
+person2.age = 30
 
-print(ex1)
-print(ex2)
+print(person1)
+print(person2)
 ```
 
 결과
@@ -69,9 +136,6 @@ print(ex2)
 Person(name: "Hong", age: 20)
 Person(name: "Hong", age: 30)
 ```
-
-> 구조체의 경우 클래스와는 달리 모든 프로퍼티가 포함된 초기화 구문(init)이 기본적으로 제공되기 때문에 초기값을 할당하지 않아도 문제가 발생하지 않음.
-{: .prompt-tip }
 
 ## **참조에 의한 전달?**
 - 클래스는 구조체와 달리 구조체 값 자체가 복사되는 것이 아닌 저장된 메모리 주소가 할당됨.
@@ -84,11 +148,11 @@ class Animal{
     var name: String = "길냥이"
 }
 
-let ex1 = Animal()
-let ex2 = ex1
-ex2.name = "길멍이"
-print(ex1.name)
-print(ex2.name)
+let animal1 = Animal()
+let animal2 = animal1
+animal2.name = "길멍이"
+print(animal1.name)
+print(animal2.name)
 ```
 
 결과
@@ -96,9 +160,6 @@ print(ex2.name)
 길멍이
 길멍이
 ```
-
-> 클래스 생성 시 초기화 구문 사용 또는 프로퍼티 기본값 할당 또는 `Optional` 선언을 통해 변수의 초기값을 정해주지 않으면 오류가 발생하게 됨.
-{: .prompt-tip }
 
 하지만 이것은 구조체와 달리 메모리 주소가 복사되는 것이기 때문에 어디서 참조되고 있는지 일일이 확인하기 어렵고, 메모리를 어느 시점에 해제해줘야하는지도 파악하기 힘듬.
 
@@ -121,10 +182,10 @@ class Animal{
     var name: String = "길냥이"
 }
 
-let ex1 = Animal()
-let ex2 = ex1
+let animal1 = Animal()
+let animal2 = animal1
 
-if ex1 === ex2{
+if animal1 === animal2{
     print("동일 인스턴스")
 }else{
     print("동일하지 않은 인스턴스")
