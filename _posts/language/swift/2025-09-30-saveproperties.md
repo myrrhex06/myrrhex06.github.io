@@ -5,7 +5,7 @@ categories: [Language, Swift]
 tags: [swift, class, struct, property]
 ---
 
-> [이전글]()과 이어짐
+> [이전글](https://myrrhex06.github.io/posts/classstruct1/)과 이어짐
 
 클래스나 구조체에 선언된 변수나 상수를 프로퍼티라고 함.<br>
 프로퍼티에는 아래와 같이 두 유형이 있음
