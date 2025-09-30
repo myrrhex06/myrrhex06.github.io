@@ -5,6 +5,8 @@ categories: [Language, Swift]
 tags: [swift, class, struct, property, didSet, willSet]
 ---
 
+> [이전글](https://myrrhex06.github.io/posts/calculatorproperties/)에서 이어짐.
+
 ## **프로퍼티 옵저버란?**
 - 저장 프로퍼티의 값이 바뀔 때 전/후처리를 할 수 있도록 해주는 구문을 의미함.
 - `willSet`: 값이 바뀌기 전에 호출됨.
