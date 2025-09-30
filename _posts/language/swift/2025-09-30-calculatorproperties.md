@@ -5,6 +5,8 @@ categories: [Language, Swift]
 tags: [swift, class, struct, property]
 ---
 
+> [이전글](https://myrrhex06.github.io/posts/saveproperties/)과 이어짐.
+
 ## **연산 프로퍼티란?**
 - 값을 저장하는 것이 아니라 다른 프로퍼티의 값을 연산 후 제공해줌.
 - 연산 프로퍼티 값에 접근하기 위해 내부적으로 `get` 구문을 정의해줘야함.
