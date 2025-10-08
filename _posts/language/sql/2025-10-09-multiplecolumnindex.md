@@ -29,7 +29,7 @@ CREATE INDEX idx_articles_title_views ON articles (title, views);
 - 첫 번째 컬럼을 기준으로 정렬된 상태에서만 제 역할을 할 수 있음.
 
 
-### 복합 인덱스 사용 예시
+### **복합 인덱스 사용 예시**
 예시 1
 ```sql
 -- 인덱스 생성 구문 --
