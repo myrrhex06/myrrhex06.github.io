@@ -1,5 +1,5 @@
 ---
-title: "델리게이트 패턴이란?"
+title: "UIKit - 델리게이트 패턴이란?"
 date: 2025-10-19 17:10:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, delegate, textfield]

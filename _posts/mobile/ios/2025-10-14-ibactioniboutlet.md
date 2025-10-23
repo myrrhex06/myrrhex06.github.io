@@ -1,5 +1,5 @@
 ---
-title: "@IBAction, @IBOutlet이란?"
+title: "UIKit - @IBAction, @IBOutlet이란?"
 date: 2025-10-14 21:45:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, ibaction, iboutlet, label, button]

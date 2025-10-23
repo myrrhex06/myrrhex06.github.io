@@ -1,5 +1,5 @@
 ---
-title: "UIView Corner Radius 적용 방법"
+title: "UIKit - UIView Corner Radius 적용 방법"
 date: 2025-10-22 21:43:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, uiview, radius]

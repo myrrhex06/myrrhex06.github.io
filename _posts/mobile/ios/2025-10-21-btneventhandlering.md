@@ -1,5 +1,5 @@
 ---
-title: "버튼 이벤트 핸들러 설정 방법"
+title: "UIKit - 버튼 이벤트 핸들러 설정 방법"
 date: 2025-10-21 06:50:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, uibutton, addtarget, event]

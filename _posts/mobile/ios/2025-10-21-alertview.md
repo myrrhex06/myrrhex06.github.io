@@ -1,5 +1,5 @@
 ---
-title: "Alert 화면 구현"
+title: "UIKit - Alert 화면 구현"
 date: 2025-10-21 18:40:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, alert]

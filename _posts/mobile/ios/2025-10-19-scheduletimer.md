@@ -1,5 +1,5 @@
 ---
-title: "정해진 시간마다 동작하는 Timer 구현 방법"
+title: "UIKit - 정해진 시간마다 동작하는 Timer 구현 방법"
 date: 2025-10-19 14:30:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, timer]

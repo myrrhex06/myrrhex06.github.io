@@ -1,5 +1,5 @@
 ---
-title: "화면의 아무 곳이나 터치했을 때 키패드 내려가게 하는 방법"
+title: "UIKit - 화면의 아무 곳이나 터치했을 때 키패드 내려가게 하는 방법"
 date: 2025-10-20 20:35:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, textfield]

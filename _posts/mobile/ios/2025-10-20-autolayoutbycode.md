@@ -1,5 +1,5 @@
 ---
-title: "오토 레이아웃(Auto Layout) 설정 방법"
+title: "UIKit - 오토 레이아웃(Auto Layout) 설정 방법"
 date: 2025-10-20 21:14:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, textfield]

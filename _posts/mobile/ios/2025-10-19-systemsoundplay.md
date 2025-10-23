@@ -1,5 +1,5 @@
 ---
-title: "Apple에서 제공되는 사운드 재생 방법"
+title: "UIKit - Apple에서 제공되는 사운드 재생 방법"
 date: 2025-10-19 14:46:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, avfoundation, sound]

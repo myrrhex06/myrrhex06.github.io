@@ -1,5 +1,5 @@
 ---
-title: "앱 시뮬레이터 키패드 설정 방법"
+title: "UIKit - 앱 시뮬레이터 키패드 설정 방법"
 date: 2025-10-19 16:05:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, storyboard, textfield]

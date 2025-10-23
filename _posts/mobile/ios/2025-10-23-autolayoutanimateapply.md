@@ -1,5 +1,5 @@
 ---
-title: "오토 레이아웃 동적 변경 애니메이션 구현 방법"
+title: "UIKit - 오토 레이아웃 동적 변경 애니메이션 구현 방법"
 date: 2025-10-23 20:24:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, autolayout, animate, constraint, uiview]

@@ -1,5 +1,5 @@
 ---
-title: "UIStackView 사용 방법"
+title: "UIKit - UIStackView 사용 방법"
 date: 2025-10-22 20:46:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, uibutton, uistackview]
