@@ -6,9 +6,9 @@ tags: [uikit, code, uiview, radius]
 ---
 
 ## **Corner Radius 적용 방법**
-`UIView`의 `layer`의 `cornerRadius`, `masksToBounds`를 통해 설정 가능함.
+`UIView`의 `layer`의 `cornerRadius`, `clipsToBounds`를 통해 설정 가능함.
 
-> `masksToBounds`는 `radius` 설정으로 인해 `UiView`의 모서리가 둥굴어지는데 이때 서브뷰나 레이어가 모서리 밖으로 나가지 않도록 잘라주는 역할을 함.
+> `clipsToBounds`는 둥근 모서리 밖으로 자식 뷰나 서브 레이어가 벗어나지 않도록 잘라주는 역할을 함.
 {: .prompt-tip }
 
 적용 예시 코드
@@ -21,7 +21,7 @@ final class ViewController: UIViewController {
        let view = UIView()
         
         // Radius 설정
-        view.layer.masksToBounds = true
+        view.clipsToBounds = true
         view.layer.cornerRadius = 10
         
         return view
