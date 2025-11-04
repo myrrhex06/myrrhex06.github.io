@@ -57,7 +57,7 @@ final class AuthService{
 > `@Sendable` 클로저란 여러 스레드나 동시성 컨텍스트에서 안전하게 공유되거나 접근될 수 있는 타입에 클로저를 뜻함.
 {: .prompt-tip }
 
-`@escaping`이 붙어 있는 `completion`은 `non-escaping` 클로저 타입이기 때문에  `@Sendable`로 처리되지 않음.
+`@escaping`이 붙어 있는 `completion`은 `@Sendable`로 처리되지 않음.
 
 ```swift
 let task = session.dataTask(with: request) { data, response, error in
@@ -77,6 +77,6 @@ let task = session.dataTask(with: request) { data, response, error in
 }
 ```
 
-`dataTask`의 `@Sendable`로 간주되는 클로저 내부에서 `non-escaping` 타입의 클로저를 호출하고 있음.
+`dataTask`의 `@Sendable`로 간주되는 클로저 내부에서 `escaping` 타입의 클로저를 호출하고 있음.
 
 이때, 컴파일러는 여러 쓰레드에서 호출될 수 있는 `dataTask` 메서드에서 Thread-safe 하지 않은 `completion` 클로저를 호출하는 것에 경고를 하는 것임.
