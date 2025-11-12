@@ -1,6 +1,6 @@
 ---
 title: "UIKit - Navigation Large Title 설정하기"
-date: 2025-11-11 17:52:00 +0900
+date: 2025-11-12 17:52:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, navigationcontroller, navigationbar]
 ---
