@@ -197,6 +197,63 @@ extension ViewController: UICollectionViewDelegateFlowLayout{
 }
 ```
 
+`CustomCollectionViewCell.swift`
+```swift
+import UIKit
+
+class CustomCollectionViewCell: UICollectionViewCell {
+    
+    let imageView: UIImageView = {
+        let imageView = UIImageView()
+        
+        imageView.translatesAutoresizingMaskIntoConstraints = false
+        imageView.backgroundColor = .black
+        
+        return imageView
+    }()
+    
+    var image: String? {
+        didSet{
+            loadImage()
+        }
+    }
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        
+        addSubview(imageView)
+        
+        setupAutoLayout()
+    }
+    
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
+    }
+    
+    func setupAutoLayout(){
+        NSLayoutConstraint.activate([
+            imageView.leadingAnchor.constraint(equalTo: self.leadingAnchor, constant: 0),
+            imageView.trailingAnchor.constraint(equalTo: self.trailingAnchor, constant: 0),
+            imageView.bottomAnchor.constraint(equalTo: self.bottomAnchor, constant: 0),
+            imageView.topAnchor.constraint(equalTo: self.topAnchor, constant: 0)
+        ])
+    }
+    
+    func loadImage(){
+        
+        guard let urlStr = image, let url = URL(string: urlStr) else { return }
+        
+        URLSession.shared.dataTask(with: url) { (data, _, _) in
+            guard let data = data else { return }
+            
+            DispatchQueue.main.async {
+                self.imageView.image = UIImage(data: data)
+            }
+        }.resume()
+    }
+}
+```
+
 `Software.swift`
 ```swift
 import Foundation
