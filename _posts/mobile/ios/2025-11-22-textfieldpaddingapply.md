@@ -1,6 +1,6 @@
 ---
 title: "UIKit - UITextField 입력 글자 위치 조정하기"
-date: 2025-11-22 17:53:00 +0900
+date: 2025-11-22 19:53:00 +0900
 categories: [Mobile, iOS]
 tags: [uikit, code, uitextfield, placeholder, uiview, extension]
 ---
