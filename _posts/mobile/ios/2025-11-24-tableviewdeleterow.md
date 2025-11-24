@@ -7,7 +7,7 @@ tags: [uikit, code, uitableview]
 
 테이블뷰의 요소가 삭제되었을 때 기존에는 `reloadData()` 메서드를 통해 테이블뷰를 다시 그려줬음.
 
-![image](/assets/img/tableviewreloaddatauseresult.gif)
+![image](/assets/img/tableviewreloaddatafunctionuseresult.gif)
 
 위 화면처럼 다시 그리는 과정에서 뚝뚝 끊기는 현상이 발생함.
 
