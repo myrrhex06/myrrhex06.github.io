@@ -45,11 +45,18 @@ class ViewController: UIViewController {
 frame : (100.0, 200.0, 200.0, 200.0)
 ```
 
-- `origin`: 부모 뷰의 원점(0, 0)을 기준으로 얼마나 떨어져 있는지를 나타냄
-- `size`: 뷰가 실제로 차지하는 직사각형의 크기
+`origin`: 부모 뷰의 원점(0, 0)을 기준으로 얼마나 떨어져 있는지를 나타냄
 
-> `transform`(회전, 스케일) 등을 적용하면, 뷰가 차지하는 물리적인 영역이 달라지기 때문에 `frame.size`는 바뀔 수 있음.
-{: .prompt-tip }
+![image](/assets/img/frameorigin.png)
+
+
+`size`: 뷰가 실제로 차지하는 직사각형의 크기
+
+![image](/assets/img/bothoriginsize.png)
+
+`transform`(회전, 스케일) 등을 적용하면, 뷰가 차지하는 물리적인 영역이 달라지기 때문에 `frame.size`는 바뀔 수 있음.
+
+![image](/assets/img/framesize.png)
 
 ## **Bounds**
 
@@ -89,11 +96,17 @@ class ViewController: UIViewController {
 frame : (0.0, 0.0, 200.0, 200.0)
 ```
 
-- `origin`: 항상 자기 자신이 기준이기 때문에 기본값(0, 0)
-- `size`: 해당 뷰의 본래 크기
+`origin`: 항상 자기 자신이 기준이기 때문에 기본값(0, 0)
 
-> `transform`을 해도 `bounds.size`는 그대로 유지됨.
-{: .prompt-tip }
+![image](/assets/img/boundsorigin.png)
+
+`size`: 해당 뷰의 본래 크기
+
+![image](/assets/img/bothoriginsize.png)
+
+`transform`을 해도 `bounds.size`는 그대로 유지됨.
+
+![image](/assets/img/boundssize.png)
 
 ### **Bounds의 origin 변경**
 
