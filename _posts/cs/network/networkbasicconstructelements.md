@@ -1,5 +1,5 @@
 ---
-title: Network - 네트워크 기본 구성 요소
+title: "Network - 네트워크 기본 구성 요소"
 date: 2025-12-13 09:05:00 +0900
 categories: [CS, Network]
 tags: [network, host, node]

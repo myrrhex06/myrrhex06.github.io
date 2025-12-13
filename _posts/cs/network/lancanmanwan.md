@@ -1,5 +1,5 @@
 ---
-title: Network - LAN(Local Area Network), WAN(Wide Area Network)이란?
+title: "Network - LAN(Local Area Network), WAN(Wide Area Network)이란?"
 date: 2025-12-13 09:30:00 +0900
 categories: [CS, Network]
 tags: [network, wan, lan, can, man]
