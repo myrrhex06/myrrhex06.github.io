@@ -6,7 +6,7 @@ tags: [network, host, node]
 ---
 
 네트워크를 이루는 기본 구성 요소는 아래 4가지임.
-
+ 
 ![image](/assets/img/networkBasicConstructure.png)
 
 - 호스트: 네트워크의 가장자리에서 최초로 메시지를 생성하고, 메시지를 수신하는 노드임.

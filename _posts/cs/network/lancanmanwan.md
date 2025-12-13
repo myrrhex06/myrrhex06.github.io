@@ -7,7 +7,7 @@ tags: [network, wan, lan, can, man]
 
 ## **LAN(Local Area Network)이란?**
 LAN은 일반 가정집, 학교, 혹은 회사처럼 한정된 공간에서 사용하는 근거리 통신망임.
-
+ 
 같은 LAN 안에 속한 기기들은 서로 메시지를 주고 받을 수 있지만, 서로 다른 LAN에 속한 호스트들 끼리는 직접적으로 메시지를 주고 받을 수 없음.
 
 ## **WAN(Wide Area Network)이란?**
