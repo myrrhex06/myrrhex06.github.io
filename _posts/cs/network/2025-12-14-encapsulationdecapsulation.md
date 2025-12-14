@@ -7,7 +7,7 @@ tags: [network, encapsulation, decapsulation]
 
 현대 네트워크 통신은 패킷 교환 방식으로 구성되어 있음.<br>
 
-> 패킷 교환 방식은 이글 참고
+> 패킷 교환 방식은 [이글](https://myrrhex06.github.io/posts/exchangepacketcircuit) 참고
 
 패킷을 송수신할 때는 캡슐화/역캡슐화 과정을 거치게됨.
 
