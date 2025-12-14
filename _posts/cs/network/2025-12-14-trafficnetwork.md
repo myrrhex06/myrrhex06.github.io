@@ -27,17 +27,17 @@ tags: [network, trafic, throughput, bandwidth, packetloss]
 - Gbps(Gbit/s): 초당 Gbit 수
 - pps(p/s): 초당 packet 수
 
-### 처리율(throughput)
+### **처리율(throughput)**
 
 단위 시간 동안 네트워크를 통해 실제로 전송되는 정보량을 의미함.
 
 비교적 실시간성이 강조되는 지표로, 특정 노드가 얼마만큼의 트래픽을 처리하는 중인지 확인할 때 주로 사용됨.
 
-### 대역폭(bandwidth)
+### **대역폭(bandwidth)**
 
 단위 시간 동안 통신 매체를 통해 송수신될 수 있는 최대 정보량을 의미함.
 
-### 패킷 손실(packet loss)
+### **패킷 손실(packet loss)**
 
 용어 그대로 송수신 과정 도중 패킷이 손실되는 상황을 의미함.
 
