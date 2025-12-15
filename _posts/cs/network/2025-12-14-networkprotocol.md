@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, protocol]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 네트워크에서 말하는 프로토콜이란 노드들(호스트, 네트워크 장비) 간에 정보를 송수신할 때 서로 합의된 규칙을 의미함.
 
 > 흔히 사용되는 HTTP부터 FTP, SMTP, IP, ARP 등이 모두 프로토콜임.

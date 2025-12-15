@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, networkreferencemodel]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 네트워크 통신을 할 때는 정형화된 여러 단계를 거침.<br>
 이 단계를 계층 별로 분류한 것을 네트워크 참조 모델이라고 함.
 

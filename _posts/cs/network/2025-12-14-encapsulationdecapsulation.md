@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, encapsulation, decapsulation]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 현대 네트워크 통신은 패킷 교환 방식으로 구성되어 있음.<br>
 
 > 패킷 교환 방식은 [이글](https://myrrhex06.github.io/posts/exchangepacketcircuit) 참고

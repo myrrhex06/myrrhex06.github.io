@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, layer, pdu]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 각 계층에서 송수신되는 메시지의 단위를 의미함.
 
 상위 계층에서 전달된 패킷에 현재 계층 프로토콜의 헤더(또는 트레일러)를 붙이면 현재 계층 PDU가 됨.

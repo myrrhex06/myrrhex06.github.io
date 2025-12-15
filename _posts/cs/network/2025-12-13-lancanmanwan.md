@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, wan, lan, can, man]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 ## **LAN(Local Area Network)이란?**
 LAN은 일반 가정집, 학교, 혹은 회사처럼 한정된 공간에서 사용하는 근거리 통신망임.
  

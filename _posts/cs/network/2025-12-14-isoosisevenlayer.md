@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, iso, osi7, layer]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 국제 표준화 기구 ISO에서 정의한 네트워크 참조 모델임.
 
 OSI 7계층은 아래와 같이 7가지 계층으로 구성됨.
