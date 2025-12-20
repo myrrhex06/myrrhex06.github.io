@@ -5,6 +5,8 @@ categories: [CS, Network]
 tags: [network, ethernet, ieee]
 ---
 
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+
 이더넷(Ethernet)이란 다양한 통신 매체들의 규격, 송수신되는 프레임의 형태, 프레임을 주고받는 방법같은 것들이 정의되어 있는 네트워크 기술임.
 
 현재 유선 LAN 환경에서 가장 대중적으로 사용되고 있음.
