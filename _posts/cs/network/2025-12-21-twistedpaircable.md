@@ -11,7 +11,7 @@ tags: [network, cable, ftp, utp, stp]
 
 이 케이블은 케이블 본체, 커넥터로 이루어져 있음.
 
-![image](/assets/img/twistedpaircableimage01.png)
+<img src="/assets/img/twistedpaircableimage01.png" alt="image" width="500">
 
 > 위 사진은 Gemini를 통해 생성한 트위스티드 페어 케이블 사진임.
 
