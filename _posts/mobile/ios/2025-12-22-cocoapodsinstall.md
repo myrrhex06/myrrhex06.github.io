@@ -1,11 +1,11 @@
 ---
-title: "MacOS Cocoapods 설치하기"
+title: "MacOS CocoaPods 설치하기"
 date: 2025-12-22 21:27:00 +0900
 categories: [Mobile, iOS]
 tags: [xcode, cocoapods, dependency, gem]
 ---
 
-Cocoapods 설치 커맨드
+CocoaPods 설치 커맨드
 ```bash
 sudo gem install cocoapods
 ```
