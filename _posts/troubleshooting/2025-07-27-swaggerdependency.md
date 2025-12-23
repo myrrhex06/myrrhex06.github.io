@@ -1,7 +1,7 @@
 ---
 title: Handler dispatch failed java.lang.NoSuchMethodError 에러 해결
 date: 2025-07-27 07:30:00 +0900
-categories: [Troubleshooting]
+categories: [Troubleshooting, Backend]
 tags: [swagger, spring, java, maven, dependency]
 ---
 

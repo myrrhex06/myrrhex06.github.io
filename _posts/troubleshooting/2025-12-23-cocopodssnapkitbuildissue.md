@@ -1,7 +1,7 @@
 ---
 title: "SnapKit.framework/Info.plist: utimensat (2): Operation not permitted 해결"
 date: 2025-12-23 17:42:00 +0900
-categories: [Troubleshooting]
+categories: [Troubleshooting, iOS]
 tags: [xcode, cocoapods, gem]
 ---
 

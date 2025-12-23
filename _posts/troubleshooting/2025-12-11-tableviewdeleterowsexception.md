@@ -1,7 +1,7 @@
 ---
 title: "Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'Invalid update: invalid number of rows in section 0."
 date: 2025-12-11 18:13:00 +0900
-categories: [Troubleshooting]
+categories: [Troubleshooting, iOS]
 tags: [uikit, tableview, coredata]
 ---
 

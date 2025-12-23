@@ -1,7 +1,7 @@
 ---
 title: "Capture of 'completion' with non-sendable type '(RegisterResult?) -> Void' in a @Sendable closure 경고"
 date: 2025-11-04 18:51:00 +0900
-categories: [Troubleshooting]
+categories: [Troubleshooting, iOS]
 tags: [uikit, swift, urlsession, closure, concurrency, escaping]
 ---
 
