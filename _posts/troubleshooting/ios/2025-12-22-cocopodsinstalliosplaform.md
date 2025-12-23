@@ -1,7 +1,7 @@
 ---
 title: "CocoaPods pod install Automatically assigning platform iOS with version 16.6 on target ... because no platform was specified. 해결"
 date: 2025-12-22 21:40:00 +0900
-categories: [Troubleshooting, iOS]
+categories: [Troubleshooting]
 tags: [xcode, cocoapods, gem]
 ---
 

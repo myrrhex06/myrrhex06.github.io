@@ -1,7 +1,7 @@
 ---
 title: java:cannot find symbol 에러 해결
 date: 2025-07-14 20:30:00 +0900
-categories: [Troubleshooting, Backend]
+categories: [Troubleshooting]
 tags: [lombok, spring, java, maven]
 ---
 
