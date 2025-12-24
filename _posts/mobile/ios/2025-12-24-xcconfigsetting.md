@@ -1,12 +1,14 @@
 ---
 title: "xcconfig 파일로 환경 변수 설정하기"
-date: 2025-12-24 18:50:00 +0900
+date: 2025-12-24 06:50:00 +0900
 categories: [Mobile, iOS]
 tags: [xcode, git, xcconfig, cocoapods]
 ---
 
 ## **xcconfig 파일이란?**
-환경별 설정 값(`API_KEY`, `BASE_URL` 등)을 관리하기 위한 설정 파일
+환경별 설정 값(`API_KEY`, `BASE_URL` 등)을 관리하기 위한 설정 파일임.
+
+외부 저장소(ex. git)에 노출되면 안되는 값들(ex. API_KEY)을 관리하는 용도로도 많이 사용함.
 
 ```
 API_KEY = 1212
