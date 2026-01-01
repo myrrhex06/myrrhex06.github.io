@@ -11,7 +11,7 @@ tags: [network, switch]
 
 <img src="/assets/img/ltwoswitch.png" alt="image" width="500">
 
-> 위 사진은 Gemini를 통해 생성한 허브 사진임.
+> 위 사진은 Gemini를 통해 생성한 스위치 사진임.
 
 위 사진처럼 허브와 유사하게 포트를 통해 호스트와 연결할 수 있음.
 
