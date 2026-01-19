@@ -67,8 +67,8 @@ final class RegisterViewController: UIViewController {
         registerViewManager.setOriginY(self.view.frame.origin.y)
     }
 
-    override func viewDidDisappear(_ animated: Bool) {
-        super.viewDidDisappear(animated)
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
 
         // 설정된 NotificationCenter Observe 해제
         removeKeyboardObserver()
