@@ -5,7 +5,7 @@ categories: [CS, Network]
 tags: [network, packet, circuit]
 ---
 
-> 본 글은 『혼자 공부하는 네트워크』를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
+> 본 글은 [『혼자 공부하는 네트워크』](https://product.kyobobook.co.kr/detail/S000212911507)를 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.
 
 호스트들 간에 메시지를 주고 받는 방식에는 아래와 같이 두 가지 방식이 있음.
 
