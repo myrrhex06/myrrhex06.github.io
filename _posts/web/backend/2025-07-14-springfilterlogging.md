@@ -1,5 +1,5 @@
 ---
-title: Spring boot Filter를 이용한 로깅 설정에 대하여 알아보자
+title: Backend - Spring boot Filter를 이용한 로깅 설정에 대하여 알아보자
 date: 2025-07-14 20:30:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, logging, filter, maven, servlet]

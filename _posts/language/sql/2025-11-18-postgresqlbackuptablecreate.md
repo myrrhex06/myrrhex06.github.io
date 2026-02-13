@@ -1,5 +1,5 @@
 ---
-title: "PostgreSQL 백업 테이블 생성하기"
+title: "SQL - PostgreSQL 백업 테이블 생성하기"
 date: 2025-11-18 18:03:00 +0900
 categories: [Language, SQL]
 tags: [sql, postgresql, create, ddl, select]

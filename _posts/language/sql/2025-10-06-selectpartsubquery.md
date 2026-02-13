@@ -1,5 +1,5 @@
 ---
-title: "SELECT절 서브쿼리"
+title: "SQL - SELECT절 서브쿼리"
 date: 2025-10-06 18:25:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select]

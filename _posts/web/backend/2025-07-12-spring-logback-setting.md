@@ -1,5 +1,5 @@
 ---
-title: Spring boot logback 설정에 대하여 알아보자.
+title: Backend - Spring boot logback 설정에 대하여 알아보자.
 date: 2025-07-12 08:20:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, logging, logback, xml]

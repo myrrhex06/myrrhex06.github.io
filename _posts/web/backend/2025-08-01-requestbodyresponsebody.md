@@ -1,5 +1,5 @@
 ---
-title: "@RequestBody, @ResponseBody에 대해서 알아보자."
+title: "Backend - @RequestBody, @ResponseBody에 대해서 알아보자."
 date: 2025-08-01 21:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring]

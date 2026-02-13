@@ -1,5 +1,5 @@
 ---
-title: "다중 행 서브쿼리란?"
+title: "SQL - 다중 행 서브쿼리란?"
 date: 2025-09-28 09:35:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select]

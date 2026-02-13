@@ -1,5 +1,5 @@
 ---
-title: Thymeleaf에 개념에 대해 알아보자.
+title: Backend - Thymeleaf에 개념에 대해 알아보자.
 date: 2025-07-05 20:50:00 +0900
 categories: [Web, Backend]
 tags: [backend, ssr, thymeleaf, spring]

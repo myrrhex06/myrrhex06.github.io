@@ -1,5 +1,5 @@
 ---
-title: "크로스 조인(CROSS JOIN)이란?"
+title: "SQL - 크로스 조인(CROSS JOIN)이란?"
 date: 2025-09-23 20:20:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, select, crossjoin, join]

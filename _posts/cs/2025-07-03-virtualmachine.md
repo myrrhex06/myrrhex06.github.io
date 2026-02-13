@@ -1,5 +1,5 @@
 ---
-title: 가상머신에 대하여 알아보자.
+title: CS - 가상머신에 대하여 알아보자.
 date: 2025-07-03 06:20:00 +0900
 categories: [CS]
 tags: [cloud, virtualmachine]

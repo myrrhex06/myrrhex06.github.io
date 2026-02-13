@@ -1,5 +1,5 @@
 ---
-title: 오버로딩과 오버라이딩에 대해 알아보자.
+title: Java - 오버로딩과 오버라이딩에 대해 알아보자.
 date: 2025-08-11 21:50:00 +0900
 categories: [Language, Java]
 tags: [java, overloading, oop, overriding]

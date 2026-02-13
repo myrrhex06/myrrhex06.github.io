@@ -1,5 +1,5 @@
 ---
-title: "alter 쿼리 사용 방법"
+title: "SQL - alter 쿼리 사용 방법"
 date: 2025-09-08 21:24:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, alter, table, ddl]

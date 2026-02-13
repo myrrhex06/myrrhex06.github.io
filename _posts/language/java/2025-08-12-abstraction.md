@@ -1,5 +1,5 @@
 ---
-title: 추상화에 대해 알아보자.
+title: Java - 추상화에 대해 알아보자.
 date: 2025-08-12 21:45:00 +0900
 categories: [Language, Java]
 tags: [java, abstract, oop]

@@ -1,5 +1,5 @@
 ---
-title: "클래스, 객체, 인스턴스에 대해 알아보자."
+title: "CS - 클래스, 객체, 인스턴스에 대해 알아보자."
 date: 2025-08-06 21:30:00 +0900
 categories: [CS]
 tags: [class, instancem, object, oop]

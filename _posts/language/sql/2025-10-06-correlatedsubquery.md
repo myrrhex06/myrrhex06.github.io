@@ -1,5 +1,5 @@
 ---
-title: "상관 서브쿼리란?"
+title: "SQL - 상관 서브쿼리란?"
 date: 2025-10-06 18:20:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select]

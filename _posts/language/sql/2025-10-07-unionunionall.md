@@ -1,5 +1,5 @@
 ---
-title: "UNION이란?"
+title: "SQL - UNION이란?"
 date: 2025-10-07 10:50:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, union, select, unionall]

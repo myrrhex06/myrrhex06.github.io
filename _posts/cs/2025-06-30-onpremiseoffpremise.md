@@ -1,5 +1,5 @@
 ---
-title: 온프레미스, 오프프레미스에 대하여 알아보자.
+title: CS - 온프레미스, 오프프레미스에 대하여 알아보자.
 date: 2025-06-30 05:00:00 +0900
 categories: [CS]
 tags: [cloud, virtualmachine]

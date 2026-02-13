@@ -1,5 +1,5 @@
 ---
-title: Spring boot 메시지, 국제화에 대해 알아보자.
+title: Backend - Spring boot 메시지, 국제화에 대해 알아보자.
 date: 2025-07-20 09:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, message, i18n]

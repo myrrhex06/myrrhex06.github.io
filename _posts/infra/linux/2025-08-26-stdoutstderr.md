@@ -1,5 +1,5 @@
 ---
-title: 표준 출력(stdout)과 표준 에러(stderr)에 대해 알아보자.
+title: Linux - 표준 출력(stdout)과 표준 에러(stderr)에 대해 알아보자.
 date: 2025-08-26 20:40:00 +0900
 categories: [Infra, Linux]
 tags: [ubuntu, permission, chmod]

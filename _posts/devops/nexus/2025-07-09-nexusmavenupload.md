@@ -1,5 +1,5 @@
 ---
-title: Nexus Repository Maven 연동 방법에 대해 알아보자.
+title: Nexus - Nexus Repository Maven 연동 방법에 대해 알아보자.
 date: 2025-07-09 20:00:00 +0900
 categories: [DevOps, Nexus]
 tags: [nexus, docker, maven, spring, java]

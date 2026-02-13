@@ -1,5 +1,5 @@
 ---
-title: "SELECT 실행 순서"
+title: "SQL - SELECT 실행 순서"
 date: 2025-09-17 21:10:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, select]

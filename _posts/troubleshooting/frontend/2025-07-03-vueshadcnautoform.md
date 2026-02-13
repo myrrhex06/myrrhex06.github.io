@@ -1,5 +1,5 @@
 ---
-title: ShadCN Vue AutoForm에서 Zod Validation 미적용 문제 해결
+title: Troubleshooting - ShadCN Vue AutoForm에서 Zod Validation 미적용 문제 해결
 date: 2025-07-03 06:00:00 +0900
 categories: [Troubleshooting]
 tags: [shadcn, vue.js]

@@ -1,5 +1,5 @@
 ---
-title: Nexus Repository에 대해 알아보자.
+title: Nexus - Nexus Repository에 대해 알아보자.
 date: 2025-07-08 18:00:00 +0900
 categories: [DevOps, Nexus]
 tags: [nexus, docker, nexus]

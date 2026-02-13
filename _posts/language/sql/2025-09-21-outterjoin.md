@@ -1,5 +1,5 @@
 ---
-title: "외부 조인(OUTER JOIN)이란?"
+title: "SQL - 외부 조인(OUTER JOIN)이란?"
 date: 2025-09-21 12:07:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, select, outerjoin, join]

@@ -1,5 +1,5 @@
 ---
-title: "인덱스란?"
+title: "SQL - 인덱스란?"
 date: 2025-10-08 13:14:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, index, select]

@@ -1,5 +1,5 @@
 ---
-title: "단일 컬럼 인덱스 활용"
+title: "SQL - 단일 컬럼 인덱스 활용"
 date: 2025-10-08 14:10:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, index, select]

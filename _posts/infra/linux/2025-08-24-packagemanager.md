@@ -1,5 +1,5 @@
 ---
-title: 패키지 매니저(package manager)에 대해 알아보자.
+title: Linux - 패키지 매니저(package manager)에 대해 알아보자.
 date: 2025-08-24 19:20:00 +0900
 categories: [Infra, Linux]
 tags: [ubuntu, apt, packagemanager]

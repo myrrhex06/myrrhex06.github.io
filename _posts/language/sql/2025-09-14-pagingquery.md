@@ -1,5 +1,5 @@
 ---
-title: "페이징 쿼리 구현 방법"
+title: "SQL - 페이징 쿼리 구현 방법"
 date: 2025-09-14 07:00:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, limit, paging, offset]

@@ -1,5 +1,5 @@
 ---
-title: "안전 업데이트 모드란?"
+title: "SQL - 안전 업데이트 모드란?"
 date: 2025-09-09 21:33:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, safe, update, delete, dml, where, mode]

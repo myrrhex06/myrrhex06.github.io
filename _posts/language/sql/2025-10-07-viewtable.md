@@ -1,5 +1,5 @@
 ---
-title: "뷰(View)란?"
+title: "SQL - 뷰(View)란?"
 date: 2025-10-07 16:35:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, view, select]

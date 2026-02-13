@@ -1,5 +1,5 @@
 ---
-title: "Mybatis useGeneratedKeys, selectKey에 대해서 알아보자."
+title: "Backend - Mybatis useGeneratedKeys, selectKey에 대해서 알아보자."
 date: 2025-08-03 10:40:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, database, mybatis, sql]

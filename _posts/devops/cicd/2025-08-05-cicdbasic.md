@@ -1,5 +1,5 @@
 ---
-title: "CI/CD에 기본 개념에 대해서 알아보자."
+title: "CI/CD - CI/CD에 기본 개념에 대해서 알아보자."
 date: 2025-08-05 20:40:00 +0900
 categories: [DevOps, CI/CD]
 tags: [devops, continuous_integration, continuous_delivery, continuous_deployment]

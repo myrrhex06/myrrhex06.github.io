@@ -1,5 +1,5 @@
 ---
-title: CentOS 7 Apache Tomcat 설치 및 구성 방법에 대해 알아보자.
+title: Linux - CentOS 7 Apache Tomcat 설치 및 구성 방법에 대해 알아보자.
 date: 2025-07-01 06:00:00 +0900
 categories: [Infra, Linux]
 tags: [centos, apache, tomcat]

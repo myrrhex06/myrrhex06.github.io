@@ -1,5 +1,5 @@
 ---
-title: "컴파일러, 인터프리터, JIT 컴파일러에 대해 알아보자."
+title: "CS - 컴파일러, 인터프리터, JIT 컴파일러에 대해 알아보자."
 date: 2025-08-13 21:10:00 +0900
 categories: [CS]
 tags: [compiler, interpreter, jit]

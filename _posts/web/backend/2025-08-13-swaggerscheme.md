@@ -1,5 +1,5 @@
 ---
-title: "Spring boot swagger UI JWT 인증 적용 방법에 대해 알아보자."
+title: "Backend - Spring boot swagger UI JWT 인증 적용 방법에 대해 알아보자."
 date: 2025-08-13 20:45:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, swagger, jwt, auth, security, scheme]

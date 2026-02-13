@@ -1,5 +1,5 @@
 ---
-title: 사용자(user)와 슈퍼 사용자(super user)에 대해서 알아보자.
+title: Linux - 사용자(user)와 슈퍼 사용자(super user)에 대해서 알아보자.
 date: 2025-08-23 11:20:00 +0900
 categories: [Infra, Linux]
 tags: [ubuntu, user, root]

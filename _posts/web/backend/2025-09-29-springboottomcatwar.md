@@ -1,5 +1,5 @@
 ---
-title: "Spring Boot WAR 톰켓 설정 방법"
+title: "Backend - Spring Boot WAR 톰켓 설정 방법"
 date: 2025-09-29 17:50:00 +0900
 categories: [Web, Backend]
 tags: [backend, springboot, tomcat, war]

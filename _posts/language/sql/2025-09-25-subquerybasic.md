@@ -1,5 +1,5 @@
 ---
-title: "서브쿼리의 기본 개념"
+title: "SQL - 서브쿼리의 기본 개념"
 date: 2025-09-25 21:46:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select]

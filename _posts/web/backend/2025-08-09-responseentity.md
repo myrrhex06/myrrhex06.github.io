@@ -1,5 +1,5 @@
 ---
-title: "ResponseEntity에 대해 알아보자."
+title: "Backend - ResponseEntity에 대해 알아보자."
 date: 2025-08-09 19:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, restful, http, response]

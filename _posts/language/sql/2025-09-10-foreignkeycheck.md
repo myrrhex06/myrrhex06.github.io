@@ -1,5 +1,5 @@
 ---
-title: "외래키 제약 조건 옵션 해제 방법"
+title: "SQL - 외래키 제약 조건 옵션 해제 방법"
 date: 2025-09-10 21:33:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, fk, check]

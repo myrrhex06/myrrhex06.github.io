@@ -1,5 +1,5 @@
 ---
-title: "쿼리 실행 계획이란?"
+title: "SQL - 쿼리 실행 계획이란?"
 date: 2025-10-08 13:25:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, index, select, explain]

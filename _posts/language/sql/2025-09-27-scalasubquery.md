@@ -1,5 +1,5 @@
 ---
-title: "스칼라 서브쿼리란?"
+title: "SQL - 스칼라 서브쿼리란?"
 date: 2025-09-27 15:10:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select, scala]

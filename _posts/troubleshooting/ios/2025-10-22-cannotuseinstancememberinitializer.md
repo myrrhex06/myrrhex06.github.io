@@ -1,5 +1,5 @@
 ---
-title: "Cannot use instance member 'exBtn1' within property initializer; property initializers run before 'self' is available 해결"
+title: "Troubleshooting - Cannot use instance member 'exBtn1' within property initializer; property initializers run before 'self' is available 해결"
 date: 2025-10-22 20:30:00 +0900
 categories: [Troubleshooting]
 tags: [uikit, stackview]

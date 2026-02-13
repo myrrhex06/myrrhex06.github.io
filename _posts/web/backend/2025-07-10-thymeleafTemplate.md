@@ -1,5 +1,5 @@
 ---
-title: Thymeleaf - 템플릿 조각
+title: Backend - Thymeleaf 템플릿 조각
 date: 2025-07-10 21:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, ssr, thymeleaf, spring]

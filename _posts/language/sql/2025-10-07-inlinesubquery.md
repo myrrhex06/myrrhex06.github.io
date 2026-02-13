@@ -1,5 +1,5 @@
 ---
-title: "테이블 서브쿼리란?"
+title: "SQL - 테이블 서브쿼리란?"
 date: 2025-10-07 09:51:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select]

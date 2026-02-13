@@ -1,5 +1,5 @@
 ---
-title: "NULL 함수"
+title: "SQL - NULL 함수"
 date: 2025-09-19 20:10:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, ifnull, select, coalesce]

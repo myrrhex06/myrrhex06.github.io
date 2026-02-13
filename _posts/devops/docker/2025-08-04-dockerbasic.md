@@ -1,5 +1,5 @@
 ---
-title: Container와 Docker에 대해서 알아보자.
+title: Docker - Container와 Docker에 대해서 알아보자.
 date: 2025-08-04 21:40:00 +0900
 categories: [DevOps, Docker]
 tags: [devops, docker, container]

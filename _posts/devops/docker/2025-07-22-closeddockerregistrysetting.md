@@ -1,5 +1,5 @@
 ---
-title: Docker Registry 구축에 대하여 알아보자.
+title: Docker - Docker Registry 구축에 대하여 알아보자.
 date: 2025-07-22 21:30:00 +0900
 categories: [DevOps, Docker]
 tags: [devops, docker, centos]

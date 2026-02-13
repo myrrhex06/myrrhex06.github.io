@@ -1,5 +1,5 @@
 ---
-title: "Synchronous URL loading of ... Please switch to an asynchronous networking API such as URLSession."
+title: "Troubleshooting - Synchronous URL loading of ... Please switch to an asynchronous networking API such as URLSession."
 date: 2025-11-13 20:35:00 +0900
 categories: [Troubleshooting]
 tags: [uikit, urlsession, data, image, networking]

@@ -1,5 +1,5 @@
 ---
-title: "자동 날짜 입력/갱신 설정 쿼리"
+title: "SQL - 자동 날짜 입력/갱신 설정 쿼리"
 date: 2025-09-07 20:25:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, pk, fk, datetime, currenttimestamp, default]

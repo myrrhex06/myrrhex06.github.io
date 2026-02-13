@@ -1,5 +1,5 @@
 ---
-title: "UITableView 무한 스크롤 기능을 적용시킨 상태에서 deleteRows 메서드 처리 시 데이터 불일치 문제 해결"
+title: "Troubleshooting - UITableView 무한 스크롤 기능을 적용시킨 상태에서 deleteRows 메서드 처리 시 데이터 불일치 문제 해결"
 date: 2025-12-14 20:31:00 +0900
 categories: [Troubleshooting]
 tags: [uikit, tableview, coredata, deleteRows, insertRows]

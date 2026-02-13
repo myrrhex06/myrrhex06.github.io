@@ -1,5 +1,5 @@
 ---
-title: "CHECK 제약 조건이란?"
+title: "SQL - CHECK 제약 조건이란?"
 date: 2025-10-09 15:45:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, constraint, check]

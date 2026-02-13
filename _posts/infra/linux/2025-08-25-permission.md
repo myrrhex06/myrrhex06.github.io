@@ -1,5 +1,5 @@
 ---
-title: 권한(permission)에 대해 알아보자.
+title: Linux - 권한(permission)에 대해 알아보자.
 date: 2025-08-25 21:40:00 +0900
 categories: [Infra, Linux]
 tags: [ubuntu, permission, chmod]

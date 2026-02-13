@@ -1,5 +1,5 @@
 ---
-title: "서브쿼리와 조인의 차이점"
+title: "SQL - 서브쿼리와 조인의 차이점"
 date: 2025-10-07 10:00:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, subquery, select, join]

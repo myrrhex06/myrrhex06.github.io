@@ -1,5 +1,5 @@
 ---
-title: "데이터베이스와 테이블 생성, 조회, 제거 관련 쿼리"
+title: "SQL - 데이터베이스와 테이블 생성, 조회, 제거 관련 쿼리"
 date: 2025-09-05 21:40:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, ddl]

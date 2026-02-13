@@ -1,5 +1,5 @@
 ---
-title: "커버링 인덱스란?"
+title: "SQL - 커버링 인덱스란?"
 date: 2025-10-08 20:21:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, index, select]

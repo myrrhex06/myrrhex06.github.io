@@ -1,5 +1,5 @@
 ---
-title: Spring JPA GeneratedValue IDENTITY에 대해 알아보자.
+title: Backend - Spring JPA GeneratedValue IDENTITY에 대해 알아보자.
 date: 2025-07-24 21:40:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, jpa, orm, autoincrement, sequence]

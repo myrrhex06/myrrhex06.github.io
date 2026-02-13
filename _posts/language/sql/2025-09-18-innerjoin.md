@@ -1,5 +1,5 @@
 ---
-title: "내부 조인(INNER JOIN)이란?"
+title: "SQL - 내부 조인(INNER JOIN)이란?"
 date: 2025-09-18 20:25:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, select, innerjoin, join]

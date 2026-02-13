@@ -1,5 +1,5 @@
 ---
-title: Spring boot @Scheduled cron 표현식에 대해 알아보자.
+title: Backend - Spring boot @Scheduled cron 표현식에 대해 알아보자.
 date: 2025-07-31 22:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, cron, scheduler]

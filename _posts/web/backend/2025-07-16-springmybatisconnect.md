@@ -1,5 +1,5 @@
 ---
-title: Spring boot Mybatis Mapper 작성에 대하여 알아보자.
+title: Backend - Spring boot Mybatis Mapper 작성에 대하여 알아보자.
 date: 2025-07-16 21:30:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, mybatis, mapper, maven, xml, sql]

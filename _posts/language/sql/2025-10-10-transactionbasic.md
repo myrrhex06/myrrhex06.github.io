@@ -1,5 +1,5 @@
 ---
-title: "트랜잭션이란?"
+title: "SQL - 트랜잭션이란?"
 date: 2025-10-10 09:28:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, transaction, commit, rollback]

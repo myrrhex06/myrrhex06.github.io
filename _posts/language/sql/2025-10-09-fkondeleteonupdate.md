@@ -1,5 +1,5 @@
 ---
-title: "외래키 제약 조건 ON DELETE, ON UPDATE 옵션이란?"
+title: "SQL - 외래키 제약 조건 ON DELETE, ON UPDATE 옵션이란?"
 date: 2025-10-09 15:40:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, constraint, fk, cascade, restrict, setnull]

@@ -1,5 +1,5 @@
 ---
-title: "Spring boot 이미지 파일 업로드 및 미리보기 기능 구현"
+title: "Backend - Spring boot 이미지 파일 업로드 및 미리보기 기능 구현"
 date: 2025-08-15 19:30:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, file, upload, multipart]

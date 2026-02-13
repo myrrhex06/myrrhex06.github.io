@@ -1,5 +1,5 @@
 ---
-title: Docker 이미지 빌드 및 사용 방법에 대해 알아보자.
+title: Docker - Docker 이미지 빌드 및 사용 방법에 대해 알아보자.
 date: 2025-07-02 06:00:00 +0900
 categories: [DevOps, Docker]
 tags: [devops, docker]

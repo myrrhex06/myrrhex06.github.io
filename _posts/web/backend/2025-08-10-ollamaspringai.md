@@ -1,5 +1,5 @@
 ---
-title: "Spring AI Ollama Embedding Model 연동에 대해 알아보자."
+title: "Backend - Spring AI Ollama Embedding Model 연동에 대해 알아보자."
 date: 2025-08-10 11:00:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, restful, ollama, embedding, model, ai]

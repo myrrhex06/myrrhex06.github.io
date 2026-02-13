@@ -1,5 +1,5 @@
 ---
-title: MySQL 8.0 버전 Connect 오류 해결
+title: Troubleshooting - MySQL 8.0 버전 Connect 오류 해결
 date: 2025-07-10 20:50:00 +0900
 categories: [Troubleshooting]
 tags: [docker, mysql]

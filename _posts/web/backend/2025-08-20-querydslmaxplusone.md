@@ -1,5 +1,5 @@
 ---
-title: "QueryDSL Max + 1 구현에 대해 알아보자."
+title: "Backend - QueryDSL Max + 1 구현에 대해 알아보자."
 date: 2025-08-20 21:30:00 +0900
 categories: [Web, Backend]
 tags: [backend, spring, querydsl, sql]

@@ -1,5 +1,5 @@
 ---
-title: "복합 컬럼 인덱스란?"
+title: "SQL - 복합 컬럼 인덱스란?"
 date: 2025-10-09 08:07:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, index, select, in, where]

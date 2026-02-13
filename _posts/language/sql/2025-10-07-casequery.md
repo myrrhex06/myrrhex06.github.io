@@ -1,5 +1,5 @@
 ---
-title: "CASE문이란?"
+title: "SQL - CASE문이란?"
 date: 2025-10-07 15:30:00 +0900
 categories: [Language, SQL]
 tags: [sql, mysql, case, select, when, then, else, end]
