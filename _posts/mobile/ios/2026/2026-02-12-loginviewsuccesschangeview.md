@@ -25,10 +25,12 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
 
     func changeRootViewController(viewController: UIViewController){
-        self.window?.rootViewController = viewController
-        self.window?.makeKeyAndVisible()
+      guard let window = window else { return }
         
-        // TODO: 애니메이션 적용 필요
+      UIView.transition(with: window, duration: 0.3, options: .transitionCrossDissolve) {
+          window.rootViewController = viewController
+          window.makeKeyAndVisible()
+      }
     }
 }
 ```
