@@ -1,5 +1,5 @@
 ---
-title: "자료구조 - 2차원 배열이란?"
+title: "DataStructure - 2차원 배열(2D Array)이란?"
 date: 2026-02-04 19:52:00 +0900
 categories: [CS, DataStructure]
 tags: [swift, array, index]

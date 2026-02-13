@@ -1,8 +1,8 @@
 ---
-title: "자료구조 - 정적 배열과 동적 배열이란?"
+title: "DataStructure - 정적 배열(Static Array)과 동적 배열(Dynamic Array)이란?"
 date: 2026-02-04 19:30:00 +0900
 categories: [CS, DataStructure]
-tags: [swift, java, array, index]
+tags: [swift, java, array, index, static, dynamic]
 ---
 
 > 본 글은 [『얄코의 가장 쉬운 자료구조와 알고리즘』](https://www.inflearn.com/course/%EC%96%84%EC%BD%94%EC%9D%98-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?cid=337721)을 참고하여 개인 학습 목적으로 이해한 내용을 정리한 것입니다.

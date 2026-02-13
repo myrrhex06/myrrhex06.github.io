@@ -1,5 +1,5 @@
 ---
-title: "자료구조 - 단일 연결 리스트란?"
+title: "DataStructure - 단일 연결 리스트(Singly Linked List)란?"
 date: 2026-02-05 21:07:00 +0900
 categories: [CS, DataStructure]
 tags: [swift, node, linkedlist]

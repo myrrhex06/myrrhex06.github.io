@@ -1,5 +1,5 @@
 ---
-title: "트리, 이진 트리란?"
+title: "DataStructure - 트리, 이진 트리란?"
 date: 2025-10-08 11:48:00 +0900
 categories: [CS, DataStructure]
 tags: [tree, root, node]

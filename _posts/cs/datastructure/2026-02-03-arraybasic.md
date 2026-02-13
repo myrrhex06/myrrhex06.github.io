@@ -1,5 +1,5 @@
 ---
-title: "자료구조 - 배열(Array)이란?"
+title: "DataStructure - 배열(Array)이란?"
 date: 2026-02-03 21:17:00 +0900
 categories: [CS, DataStructure]
 tags: [swift, array, index]

@@ -1,5 +1,5 @@
 ---
-title: "자료구조 - 배열 요소의 삭입 & 삭제"
+title: "DataStructure - 배열 요소의 삭입 & 삭제"
 date: 2026-02-04 19:08:00 +0900
 categories: [CS, DataStructure]
 tags: [swift, java, array, index]

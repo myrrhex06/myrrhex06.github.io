@@ -1,5 +1,5 @@
 ---
-title: "자료구조 - 원형 연결 리스트란?"
+title: "DataStructure - 원형 연결 리스트(Circular Linked List)란?"
 date: 2026-02-09 21:22:00 +0900
 categories: [CS, DataStructure]
 tags: [swift, node, circularlinkedlist]
