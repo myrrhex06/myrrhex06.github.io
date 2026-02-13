@@ -1,5 +1,5 @@
 ---
-title: "DB 네이밍 규칙에 대해 알아보자."
+title: "DB - DB 네이밍 규칙에 대해 알아보자."
 date: 2025-09-01 08:30:00 +0900
 categories: [CS, DB]
 tags: [database, naming, rules]

@@ -1,5 +1,5 @@
 ---
-title: "데이터베이스(Database)와 데이터베이스 관리 시스템(DBMS)이란?"
+title: "DB - 데이터베이스(Database)와 데이터베이스 관리 시스템(DBMS)이란?"
 date: 2025-09-03 19:40:00 +0900
 categories: [CS, DB]
 tags: [database, dbms]

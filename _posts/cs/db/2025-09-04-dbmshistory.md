@@ -1,5 +1,5 @@
 ---
-title: "데이터베이스 관리 시스템의 등장 배경"
+title: "DB - 데이터베이스 관리 시스템의 등장 배경"
 date: 2025-09-04 21:40:00 +0900
 categories: [CS, DB]
 tags: [database, dbms, history]

@@ -1,5 +1,5 @@
 ---
-title: "데이터와 정보와 정보란?"
+title: "DB - 데이터와 정보와 정보란?"
 date: 2025-09-02 20:30:00 +0900
 categories: [CS, DB]
 tags: [database, data, information]
