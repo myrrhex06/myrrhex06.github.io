@@ -82,7 +82,7 @@ public class AESConverter implements AttributeConverter<String, String> {
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class UserTwoFactorInfo extends BaseEntity{
+public class UserInfo{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
