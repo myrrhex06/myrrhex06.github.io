@@ -1,6 +1,6 @@
 ---
 title: "Web Server - Apache Web Server(httpd) 로그 보관 기간 변경 방법"
-date: 2026-03-01 19:12:00 +0900
+date: 2026-03-18 19:12:00 +0900
 categories: [Infra, WebServer]
 tags: [centos, apache, httpd, logrocate]
 ---
