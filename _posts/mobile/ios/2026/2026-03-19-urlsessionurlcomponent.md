@@ -25,7 +25,7 @@ func list(page: Int, size: Int, title: String? = nil, userSeq: String? = nil, co
 
 이렇게 생성하다보니 쿼리 파라미터를 붙이는데 굉장히 번거로웠고 이를 해결하기 위해서 `URLComponents`를 사용함.
 
-`URLComponents`란 `URL` 객체를 구성하는 구조임. URL 객체는 read-only 이지만 `URLComponents`는 read, write 둘 다 가능함.
+`URLComponents`란 `URL` 객체를 구성하는 구조임. `URL` 객체는 read-only 이지만 `URLComponents`는 read, write 둘 다 가능함.
 
 예시
 ```swift
