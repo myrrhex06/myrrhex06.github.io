@@ -30,16 +30,32 @@ KeyChain Service API를 통해 암호화된 데이터에 쉽게 접근이 가능
 > 출처: [Apple Developer Document - Using the keychain to manage user secrets](https://developer.apple.com/documentation/security/using-the-keychain-to-manage-user-secrets)
 
 **흐름 설명**
-- KeyChain에 저장된 인증 정보가 없다면?
+- **KeyChain에 저장된 인증 정보가 없다면?**
   - 사용자에게 인증 정보를 입력받고 인증 성공 시 필요한 정보를 KeyChain에 저장
-- KeyChain에 저장된 인증 정보가 있으나 모종의 이유(ex. 토큰 만료)로 인증이 실패한다면?
+- **KeyChain에 저장된 인증 정보가 있으나 모종의 이유(ex. 토큰 만료)로 인증이 실패한다면?**
   - 사용자에게 인증 정보를 다시 입력받고 인증 성공 시 KeyChain에 저장된 데이터 업데이트
-- KeyChain에 저장된 인증 정보가 있고 유효하다면 통과
+- **KeyChain에 저장된 인증 정보가 있고 유효하다면 통과**
 
 ## **KeyChain Service API 사용**
 
-KeyChain 데이터 저장 예시
+### **Query**
 
+KeyChain에 데이터를 생성, 조회, 삭제, 수정할 때는 모두 Query를 생성하여 처리함.
+
+Query는 `Dictionary`로 구성되어 있어 `key-value` 형태를 띔.
+
+**Query에서 사용되는 속성**
+
+| 항목              | 설명                 |
+| ----------------- | -------------------- |
+| `kSecClass`       | 저장할 데이터 타입   |
+| `kSecAttrAccount` | 데이터를 구분하는 키 |
+| `kSecAttrService` | 데이터를 묶는 그룹   |
+
+
+### **데이터 저장**
+
+예시
 ```swift
 import Foundation
 import Security
@@ -64,12 +80,8 @@ final class KeyChainUtil{
 }
 ```
 
-- `kSecClass`: 저장되는 데이터 유형
-- `kSecAttrAccount`: 데이터를 구분하기 위한 키값
-- `kSecAttrService`: 데이터를 묶는 그룹 (네임스페이스 개념)
-
-KeyChain 데이터 조회 예시
-
+### **데이터 조회**
+예시
 ```swift
 import Foundation
 import Security
@@ -101,8 +113,8 @@ final class KeyChainUtil{
 }
 ```
 
-KeyChain 데이터 삭제
-
+### **데이터 삭제**
+예시
 ```swift
 import Foundation
 import Security
