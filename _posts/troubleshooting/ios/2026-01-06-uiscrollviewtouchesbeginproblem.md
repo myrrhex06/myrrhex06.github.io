@@ -1,7 +1,7 @@
 ---
-title: "UIKit - UIScrollView touchesBegan 메서드가 호출되지 않는 문제 해결하기"
+title: "Troubleshooting - UIScrollView touchesBegan 메서드가 호출되지 않는 문제 해결하기"
 date: 2026-01-06 21:25:00 +0900
-categories: [Mobile, iOS]
+categories: [Troubleshooting]
 tags: [ios, uikit, uiscrollview, touch, gesture]
 ---
 
