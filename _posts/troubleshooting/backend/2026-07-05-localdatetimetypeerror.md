@@ -1,5 +1,5 @@
 ---
-"title: Troubleshooting - Type definition error: [simple type, class java.time.LocalDateTime] 에러 해결"
+title: "Troubleshooting - Type definition error: [simple type, class java.time.LocalDateTime] 에러 해결"
 date: 2026-07-05 18:28:00 +0900
 categories: [Troubleshooting]
 tags: [mybatis, spring, java, maven, dependency, jackson, objectmapper]
