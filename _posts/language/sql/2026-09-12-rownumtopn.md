@@ -16,7 +16,7 @@ Oracle에서는 `ROWNUM`이라는 값을 이용해서 상위 N개의 데이터�
 
 ```sql
 SELECT
-	*
+  *
 FROM EMP_SALES
 WHERE ROWNUM <= 3
 ORDER BY SALES_AMT DESC;
@@ -26,13 +26,13 @@ ORDER BY SALES_AMT DESC;
 
 ```sql
 SELECT
-	*
+  *
 FROM 
-	(
-		SELECT 
-			*
-		FROM EMP_SALES
-		ORDER BY SALES_AMT DESC
-	)
+  (
+    SELECT 
+      *
+    FROM EMP_SALES
+    ORDER BY SALES_AMT DESC
+  )
 WHERE ROWNUM <= 3;
 ```
